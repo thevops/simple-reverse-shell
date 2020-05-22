@@ -4,9 +4,11 @@ C program for reverse shell
 ## How to use?
 
 ### Compile
-- git clone https://github.com/vizarch/simple-reverse-shell
-- cd simple-reverse-shell
-- gcc rshell.c -o rshell
+```
+git clone https://github.com/vizarch/simple-reverse-shell
+cd simple-reverse-shell
+gcc rshell.c -o rshell
+```
 
 ### Run
 - Listener machine (use netcat)
