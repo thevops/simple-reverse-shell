@@ -20,7 +20,7 @@ gcc rshell.c -o rshell
 ### Example use case
 
 Enter into Docker container (for example: AWS Fargate)
-- ==only for tests==
+- **only for tests**
 - create script wrapper for CMD
 ```bash
 #!/bin/sh
