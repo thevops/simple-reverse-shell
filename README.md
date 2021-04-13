@@ -5,7 +5,7 @@ C program for reverse shell
 
 ### Compile
 ```
-git clone https://github.com/vizarch/simple-reverse-shell
+git clone https://github.com/thevops/simple-reverse-shell
 cd simple-reverse-shell
 gcc rshell.c -o rshell
 ```
